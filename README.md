@@ -1,7 +1,7 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">𝐯𝐞𝐧𝐨𝐦𝐗𝐦𝐮𝐬𝐢𝐜</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2b610c918dec590d2777b.jpg">
+  <img src="https://graph.org/file/757a0d22df965aedf84e1.jpg">
 </p>
 
 
